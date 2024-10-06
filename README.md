@@ -27,7 +27,7 @@ The basic calculations for the antenna are made with [John Parfrey's (M0UKD) exc
 All CAD files (FCStd format) can be found in the subdirectory "FreeCAD-Data". STL files for individual slicing can be found in the subdirectory "STL-Data". Ready-to-print BGCODE for Prusa MK4 printers can be found in the subdirectory "Prusa3D-Data".
 
 # Contruction
-Details about measures and assembly of the antenna can be found in [J-Pole_433MHz_DL9SEC.pdf](https://github.com/dl9sec/J-Pole_433MHz/raw/master/J-Pole_433MHz_DL9SEC.pdf).
+Details about measures and assembly of the antenna can be found in [J-Pole_433MHz_DL9SEC.pdf](https://github.com/dl9sec/J-Pole_433MHz/blob/main/J-Pole_433MHz_DL9SEC.pdf).
 
 1. The 6mm brass tube is cutted to the respective length. At one end a 4mm hole must be drilled (see drawing).
 2. The 4mm brass tube should be simply bended carefully and then cutted to the given length.
