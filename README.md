@@ -8,7 +8,7 @@ The basic calculations for the antenna were made with [John Parfrey's (M0UKD) ex
 
 # Material
 
-## Common parts
+## General parts
 * Brass tube 6 mm diameter
 * Brass tube 4 mm diameter
 * Electric installation PVC tube 25 mm diameter
@@ -20,7 +20,7 @@ The basic calculations for the antenna were made with [John Parfrey's (M0UKD) ex
 * Clip-on ferrite about 13 mm diameter, about 26 mm length
 * A piece of RG/RD-316 with an SMA connector (isolation parts are made of PTFE, so no problems at soldering the feedpoint)
 
-## 3D pinted parts
+## 3D printed parts
 * J-Pole_433_Base, J-Pole_433_Bot1/2, J-Pole_433_Spacer and J-Pole_433_Top are made of PETG with 15% infill. J-Pole_433_Clamp is made of PETG with 50% infill. 2.1/2.4 mm holes are threaded with a thread cutter for M2.5 respectively M3.
 * J-Pole_433_Cap is made of Shore 95A TPU (Eryone) with 100% infill.
 
