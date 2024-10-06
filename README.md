@@ -1,7 +1,7 @@
 # Construction of a weather proof J Pole antenna for 433..434 MHz
 This is a contruction of a weather proof J Pole antenna which can be used as a stationary antenna e.g. for [MeshCom](https://icssw.org/meshcom). The antenna is tuned to 433.5MHz resonance frequency and has a return loss better than ~20dB within +/-2MHz. 
 
-The basic calculations for the antenna are made with [John Parfrey's (M0UKD) excellent J Pole/Slim Jim online calculator](https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator). The velocity factor vf for the used material is about 0.95. The plastic parts and the covering tube are reducing the resonance frequency by about 10MHz (so the calculation frequency must be set to 443.5MHz).
+The basic calculations for the antenna were made with [John Parfrey's (M0UKD) excellent J Pole/Slim Jim online calculator](https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator). The velocity factor vf for the used material is about 0.95. The plastic parts and the covering tube are reducing the resonance frequency by about 10MHz (so the calculation frequency must be set to 443.5MHz).
 
 <img src="images/J-Pole_433_Antenna.jpg" alt="J Pole antenna" width="40%" height="40%">
 <img src="images/J-Pole_433_Matching.jpg" alt="J Pole antenna" width="40%" height="40%">
