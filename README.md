@@ -12,13 +12,13 @@ The basic calculations for the antenna were made with [John Parfrey's (M0UKD) ex
 * Brass tube 6 mm diameter
 * Brass tube 4 mm diameter
 * Electric installation PVC tube 25 mm diameter
-* Clamps for installation tube 25 mm (optional, depends on mounting)
+* Clamps for installation PVC tube 25 mm (optional, depends on mounting)
 * 2x M5 x 9.5 x 7.1 threaded heat set inserts (optional, depends on mounting)
 * 2x M2,5 x 6 countersunk screw (stainless steel if possible)
 * 1x M3 x 10 Nylon
 * 1x DIN912 M3 x 8 (stainless steel if possible)
 * Clip-on ferrite about 13 mm diameter, about 26 mm length
-* A piece of RG/RD-316 with an SMA connector (isolation parts are made of PTFE, so no problems at soldering the feedpoint)
+* A piece of RG/RD-316 with a SMA connector (isolation parts are made of PTFE, so no problems at soldering the feedpoint)
 
 ## 3D printed parts
 * J-Pole_433_Base, J-Pole_433_Bot1/2, J-Pole_433_Spacer and J-Pole_433_Top are made of PETG with 15% infill. J-Pole_433_Clamp is made of PETG with 50% infill. 2.1/2.4 mm holes are threaded with a thread cutter for M2.5 respectively M3.
@@ -30,7 +30,7 @@ All CAD files (FCStd format) can be found in the subdirectory "FreeCAD-Data". ST
 Details about measures and assembly of the antenna can be found in [J-Pole_433MHz_DL9SEC.pdf](https://github.com/dl9sec/J-Pole_433MHz/blob/main/J-Pole_433MHz_DL9SEC.pdf).
 
 1. The 6mm brass tube is cutted to the respective length. At one end a 4mm hole must be drilled (see drawing).
-2. The 4mm brass tube should be simply bended carefully and then cutted to the given length.
+2. The 4mm brass tube should be simply bent carefully and then cutted to the given length.
 
 <img src="images/J-Pole_433_Brass_elements.jpg" alt="J Pole antenna" width="40%" height="40%">
 <img src="images/J-Pole_433_Brass_elements_detailed.jpg" alt="J Pole antenna" width="40%" height="40%">
