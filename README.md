@@ -41,7 +41,7 @@ Details about measures and assembly of the antenna can be found in [J-Pole_433MH
 <img src="images/J-Pole_433_Short_detailed.jpg" alt="J Pole antenna" width="40%" height="40%">
 
 6. The spacer ("J-Pole_433_Spacer") is put on the tubes to stabilize the J.
-7. The coaxial cable is soldered to the feedpoint (see drawing). Take care, that if the 6mm tube is on the left, the cable must be on the backside!
+7. The coaxial cable is soldered to the feedpoint (see drawing). Take care, that if the 6mm tube is on the left, the cable must be on the top side!
 
 <img src="images/J-Pole_433_Feedpoint.jpg" alt="J Pole antenna" width="40%" height="40%">
 
