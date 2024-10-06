@@ -35,24 +35,24 @@ Details about measures and assembly of the antenna can be found in [J-Pole_433MH
 <img src="images/J-Pole_433_Brass_elements.jpg" alt="J Pole antenna" width="40%" height="40%">
 <img src="images/J-Pole_433_Brass_elements_detailed.jpg" alt="J Pole antenna" width="40%" height="40%">
 
-4. The 4mm tube is sticked into the drilled hole (see drawing) and brazed with brasing alloy (e.g. silver alloy, 650°C melting point).
+3. The 4mm tube is sticked into the drilled hole (see drawing) and brazed with brasing alloy (e.g. silver alloy, 650°C melting point).
 
 <img src="images/J-Pole_433_Brass_elements_brazed.jpg" alt="J Pole antenna" width="40%" height="40%">
 <img src="images/J-Pole_433_Short_detailed.jpg" alt="J Pole antenna" width="40%" height="40%">
 
-6. The spacer ("J-Pole_433_Spacer") is put on the tubes to stabilize the J.
-7. The coaxial cable is soldered to the feedpoint (see drawing). Take care, that if the 6mm tube is on the left, the cable must be on the top side!
+4. The spacer ("J-Pole_433_Spacer") is put on the tubes to stabilize the J.
+5. The coaxial cable is soldered to the feedpoint (see drawing). Take care, that if the 6mm tube is on the left, the cable must be on the top side!
 
 <img src="images/J-Pole_433_Feedpoint.jpg" alt="J Pole antenna" width="40%" height="40%">
 
-9. The shells "J-Pole_433_Bot1/2" are put arond the bottom of the antenna. The upper screw is the nylon one, the lower screw is the metal one.
-10. Put the ferrite choke around the coax cable, then put "J-Pole_433_Base" around the cable and push both towards the antenna bottom.
+6. The shells "J-Pole_433_Bot1/2" are put arond the bottom of the antenna. The upper screw is the nylon one, the lower screw is the metal one.
+7. Put the ferrite choke around the coax cable, then put "J-Pole_433_Base" around the cable and push both towards the antenna bottom.
 
 <img src="images/J-Pole_433_Inside.jpg" alt="J Pole antenna" width="40%" height="40%">
 
-10. Put all together into the PVC tube (it may be better to insert the "J-Pole_433_Top" only after the antenna has been pushed into the tube).
-7. Attach the antenna with the two screws at the bottom of the tube.
-8. Put "J-Pole_433_Cap" on the tot ob the tube.
+8. Put all together into the PVC tube (it may be better to insert the "J-Pole_433_Top" after the antenna has been pushed into the tube).
+9. Attach the antenna with the two screws at the bottom of the tube.
+10. Put "J-Pole_433_Cap" on the top of the tube.
 
 # Miscellaneous
 
