@@ -1,5 +1,5 @@
 # Construction of a weather proof J Pole antenna for 433..434 MHz
-This is a contruction of a weather proof J Pole antenna which can be used as a stationary antenna e.g. for [MeshCom](https://icssw.org/meshcom). The antenna is tuned to 433.5MHz resonance frequency and has a return loss better than 15dB within +/-2MHz. 
+This is a contruction of a weather proof J Pole antenna which can be used as a stationary antenna e.g. for [MeshCom](https://icssw.org/meshcom). The antenna is tuned to 433.5MHz resonance frequency and has a return loss better than ~20dB within +/-2MHz. 
 
 The basic calculations for the antenna are made with [John Parfrey's (M0UKD) excellent J Pole/Slim Jim online calculator](https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator). The velocity factor vf for the used material is about 0.95. The plastic parts and the covering tube are reducing the resonance frequency by about 10MHz (so the calculation frequency must be set to 443.5MHz).
 
@@ -42,8 +42,11 @@ Details about measures and assembly of the antenna can be found in [J-Pole_433MH
 
 6. The spacer ("J-Pole_433_Spacer") is put on the tubes to stabilize the J.
 7. The coaxial cable is soldered to the feedpoint (see drawing). Take care, that if the 6mm tube is on the left, the cable must be on the backside!
-8. The shells "J-Pole_433_Bot1/2" are put arond the bottom of the antenna. The upper screw is the nylon one, the lower screw is the metal one.
-9. Put the ferrite choke around the coax cable, then put "J-Pole_433_Base" around the cable and push both towards the antenna bottom.
+
+<img src="images/J-Pole_433_Feedpoint.jpg" alt="J Pole antenna" width="40%" height="40%">
+
+9. The shells "J-Pole_433_Bot1/2" are put arond the bottom of the antenna. The upper screw is the nylon one, the lower screw is the metal one.
+10. Put the ferrite choke around the coax cable, then put "J-Pole_433_Base" around the cable and push both towards the antenna bottom.
 
 <img src="images/J-Pole_433_Inside.jpg" alt="J Pole antenna" width="40%" height="40%">
 
